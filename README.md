@@ -20,7 +20,7 @@ Simple, link the css in your web file
 
 Then use Tailwind classes in your html code
 
-`<div class="p-5 rounded-md font-bold cursor-pointer tex-red-300 hover:text-red-600 bg-blue-500 active:bg-yellow-500 sm:bg-gray-500">Hi there!</div>`
+`<div class="p-5 m-auto mt-10 w-52 rounded-md text-center font-bold cursor-pointer text-white hover:text-green-400 bg-blue-500 active:bg-yellow-500 sm:bg-fuchsia-500">Hi there!</div>`
 
 <br />
 
